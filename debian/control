@@ -1,0 +1,13 @@
+Source: python-infi-pyutils
+Section: python
+Priority: optional
+Maintainer: Pexip AS <packaging@pexip.com>
+Build-Depends: debhelper (>= 8.0.0), python-all (>= 2.6.6-3~), python-setuptools
+Standards-Version: 3.9.2
+Homepage: https://github.com/Infinidat/infi.pyutils
+
+Package: python-infi-pyutils
+Architecture: all
+Depends: ${python:Depends}, ${misc:Depends}
+Description: Misc. pure-python utilities
+ infi.pyutils is a set of utilities for various tasks in Python.
