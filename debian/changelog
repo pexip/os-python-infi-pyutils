@@ -1,3 +1,9 @@
+python-infi-pyutils (0.0.30-3) pexip; urgency=medium
+
+  * Rebuild in buster environment
+
+ -- Steve McIntyre <steve.mcintyre@pexip.com>  Thu, 16 Jul 2020 15:47:09 +0000
+
 python-infi-pyutils (0.0.30-2) pexip; urgency=medium
 
   * Rebuild in buster environment
